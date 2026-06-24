@@ -1,30 +1,50 @@
-# 서정일
+# Hi, I'm Jeongil Seo
 
-문제를 숫자로 좁히고, 서비스 흐름으로 만듭니다.
+I narrow problems with data and turn them into working service flows.
 
-[Portfolio](https://iljeong.github.io/portfolio/) · [Pullsize](https://www.pullsize.kr/recommend) · [Email](mailto:seobgak11@naver.com)
+- Service planning · data analysis · content planning · AI automation
+- Based in South Korea
+- Portfolio: [iljeong.github.io/portfolio](https://iljeong.github.io/portfolio/)
 
-## What I Do
+---
 
-- 사용자 행동과 콘텐츠 데이터에서 막히는 지점을 찾습니다.
-- 기능 하나보다 전체 흐름을 먼저 보고, 문제를 서비스 구조로 다시 정리합니다.
-- 기획에서 멈추지 않고 직접 만들거나 산출물로 확인합니다.
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ## Selected Work
 
 | Work | Focus | Proof |
 | --- | --- | --- |
-| [Fastcampus](https://iljeong.github.io/portfolio/projects/fastcampus/) | 실무 상품화 | 신규 교육 상품 6개 기획·런칭 |
-| [Gcar VoC](https://iljeong.github.io/portfolio/projects/gcar-voc/) | 데이터 구조화 | 공개 앱 리뷰 37,923건 분석 |
-| [Pullsize](https://iljeong.github.io/portfolio/projects/pullsize/) | 서비스 구현 | AI 사이즈 추천 MVP 직접 기획·구현·배포 |
+| [Fastcampus](https://iljeong.github.io/portfolio/projects/fastcampus/) | Product launch | Planned and launched 6 education products |
+| [Gcar VoC](https://iljeong.github.io/portfolio/projects/gcar-voc/) | Data structuring | Analyzed 37,923 public app reviews |
+| [Pullsize](https://iljeong.github.io/portfolio/projects/pullsize/) | Service build | Planned, built, and deployed an AI size recommendation MVP |
 
-## Tools
+---
 
-Service Planning · Data Analysis · Content Planning · AI Automation
+## Contact
 
-Python · SQL · TypeScript · Astro · Next.js · Supabase · Figma
+[Portfolio](https://iljeong.github.io/portfolio/)  
+[Pullsize](https://www.pullsize.kr/recommend)  
+[Email](mailto:seobgak11@naver.com)
 
-## Current
+---
 
-- AI 사이즈 추천 서비스 [Pullsize](https://www.pullsize.kr/recommend)를 만들고 있습니다.
-- 포트폴리오와 프로젝트 기록은 [iljeong.github.io/portfolio](https://iljeong.github.io/portfolio/)에 정리하고 있습니다.
+## GitHub Stats
+
+![Jeongil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iljeong&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iljeong&layout=compact&theme=dark&hide_border=true)
+
+## Count of Visiting
+
+![Profile views](https://komarev.com/ghpvc/?username=iljeong&label=Profile%20views&color=0e75b6&style=flat)
