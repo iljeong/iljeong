@@ -8,16 +8,12 @@ I narrow problems with data and turn them into working service flows.
 
 ---
 
-## Tech Stack
+## Tools I Use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Planning & Design:** Figma · Notion · Google Sheets
+- **Data:** Python · SQL · App review analysis
+- **AI-assisted Build:** Claude Code · Codex · GitHub
+- **Used in Projects:** Astro · Next.js · Supabase · TypeScript
 
 ---
 
@@ -33,8 +29,6 @@ I narrow problems with data and turn them into working service flows.
 
 ## Contact
 
-[Portfolio](https://iljeong.github.io/portfolio/)  
-[Pullsize](https://www.pullsize.kr/recommend)  
 [Email](mailto:seobgak11@naver.com)
 
 ---
