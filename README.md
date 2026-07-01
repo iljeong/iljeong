@@ -12,7 +12,7 @@ I narrow problems with data and turn them into working service flows.
 
 | Work | Focus | Proof |
 | --- | --- | --- |
-| [Pullsize](https://iljeong.github.io/portfolio/projects/pullsize/) | Service build | Planned, built, and deployed an AI size-recommendation MVP |
+| [Pullsize](https://iljeong.github.io/portfolio/projects/pullsize/) | Service build · 2-person team | Co-built and deployed an AI size-recommendation MVP with a teammate |
 | [Gcar VoC](https://iljeong.github.io/portfolio/projects/gcar-voc/) | Data structuring | Structured and analyzed 37,923 public app reviews |
 | [Vrew Review Analysis](https://github.com/iljeong/app_analysis_test) | Data analysis | Lifted multilingual sentiment accuracy 60% → 89.6% across KO/EN/JP |
 | [Fastcampus](https://iljeong.github.io/portfolio/projects/fastcampus/) | Product launch | Planned and launched 6 education products |
