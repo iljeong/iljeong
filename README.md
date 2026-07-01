@@ -49,12 +49,6 @@ I plan and analyze with data, then build the actual service with AI-assisted too
 
 ---
 
-## GitHub Stats
-
-![Jeongil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iljeong&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iljeong&layout=compact&theme=dark&hide_border=true)
-
 ## Count of Visiting
 
 ![Profile views](https://komarev.com/ghpvc/?username=iljeong&label=Profile%20views&color=0e75b6&style=flat)
